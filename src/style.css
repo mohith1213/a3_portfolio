@@ -498,14 +498,18 @@ button:focus {
 
 @media (max-width: 767px) {
   .about-img {
-    width: 20px !important;
-    height: 40px !important;
+
   }
 }
 .img-fluid{
   width: 300px !important;
     height: 460px !important;
 }
-
+.img-f{
+  width: 300px !important;
+    height: 460px !important;
+    align-items: center;
+    margin-left: 500px;
+}
 
 
